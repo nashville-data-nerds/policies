@@ -57,17 +57,17 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. `adantonison@gmail.com`.
 
-[LINK_TO_REPORTING_GUIDELINES]
+[Reporting Guidelines](reporting_guidelines.md)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [GOVERNING_BODY] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact Alex Antonison with your appeal and the Syndicate board will review the case.
 
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+**Nashville Data Nerds does not currently have a board for revieiwng grievances.  I recognize that no single person should have control over these matters and as our group grows, I plan to put in a board in place to help facilitate the enforcement and reviewing of Code of Conduct Cases**
 
 ## 9. Scope
 
@@ -77,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+adantonison@gmail.com
 
 ## 11. License and attribution
 

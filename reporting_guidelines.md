@@ -1,6 +1,10 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+**Nashville Data Nerds does not currently have a board for revieiwng grievances.  I recognize that no single person should have control over these matters and as our group grows, I plan to put in a board in place to help facilitate the enforcement and reviewing of Code of Conduct Cases.**
+
+**In some instances I have reworded to wording to be specific to me but in others I have left it generic to a group but as it stands, I, Alex Antonison, will be the only person reviewing reports.**
+
+If you believe someone is violating the code of conduct we ask that you report it to Alex Antonison at adantonison@gmail.com
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -20,9 +24,9 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Stumptown Syndicate's Code of Conduct response team acknowledging receipt as soon as possible, but within 24 hours.
+You will receive an email from Alex Antonison team acknowledging receipt as soon as possible, within three business days.
 
-The working group will immediately meet to review the incident and determine:
+Alex will immediately meet to review the incident and determine:
 
 * What happened.
 * Whether this event constitutes a code of conduct violation.
@@ -47,7 +51,7 @@ Finally, the response team will make a report on the situation to the Stumptown 
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact Alex Antonison at adantonison@gmail.com with your appeal and the Syndicate board will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
