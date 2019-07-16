@@ -67,7 +67,7 @@ Additionally, community organizers are available to help community members engag
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact Alex Antonison with your appeal and the Syndicate board will review the case.
 
-**Nashville Data Nerds does not currently have a board for revieiwng grievances.  I recognize that no single person should have control over these matters and as our group grows, I plan to put in a board in place to help facilitate the enforcement and reviewing of Code of Conduct Cases**
+**Nashville Data Nerds does not currently have a board for revieiwng grievances.  I recognize that no single person should have control over these matters and as our group grows, I plan to put in a board in place to help facilitate the enforcement and reviewing of Code of Conduct Cases.**
 
 ## 9. Scope
 
